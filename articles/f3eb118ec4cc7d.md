@@ -2,8 +2,8 @@
 title: "RAG検索時に過去履歴を読み込ませるべきか？開発中のAIチャットから得た最適解"
 emoji: "🧠"
 type: "tech" # tech: 技術記事 / idea: アイデア記事
-topics: ["RAG", "LangChain", "AzureOpenAI", "AIチャット", "検索最適化"]
-published: false
+topics: ["RAG", "LangChain", "Azure", "AIチャット", "検索最適化"]
+published: true
 ---
 
 ## はじめに
